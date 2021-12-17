@@ -5,6 +5,9 @@ En el otro extremo de la estructura va una cuerda que levanta la estructura y la
 La cuerda se va enredando en un carrete accionado por un motorreductor.  
 Para necesitar menos torque y usar un motor relativamente pequeño, se agregará un sistema de poleas 
 
+Opciones de cuerda:  
+- Cuerda para rapel "piola"
+- Cable de acero forrado
 
 ## Referencias en YT
 
