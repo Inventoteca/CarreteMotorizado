@@ -10,7 +10,6 @@ Opciones de cuerda:
 - Cable de acero forrado
 
 ## Referencias en YT
-
 Es como el que buscamos: brazo fijado en techo, bici horizontal  
 https://www.youtube.com/watch?v=dpwPKi8rk2E
 
@@ -31,6 +30,17 @@ https://www.youtube.com/watch?v=gDOwsmjQAFc&list=PL__kmv9eNEE_63d6hUbuhj0_NDgP4m
 
 
 ## Motores
+Motor de powerwheels como el siguiente  
+https://grabcad.com/library/power-wheels-f150-wheel-adapter-1  
 
-Motor de powerwheels como el siguiente
-https://grabcad.com/library/power-wheels-f150-wheel-adapter-1
+https://articulo.mercadolibre.com.mx/MLM-878446957-rs390-motor-electrico-caja-de-cambios-6v12v-12000-20000rpm-_JM  
+
+Motorreductor i3d  
+https://www.thingiverse.com/thing:4790867  
+
+## Poleas
+https://www.amazon.com.mx/Grip-18095-2-Ton-cuerda-Polea-Hoist/dp/B002QFVRQ8/ref=sr_1_12  
+https://www.amazon.com.mx/XSTRAP-libras-resistencia-rotura-cuerda/dp/B07VFF9Z5B/ref=pd_sbs_6  
+https://www.amazon.com.mx/national-hardware-600-3204BC-doble-níquel/dp/B000CRFAK6/ref=pd_sbs_3  
+https://www.amazon.com.mx/Cuerda-alambre-inoxidable-rodillo-rodamiento/dp/B07KZPQ7Q1/ref=pd_sbs_2  
+https://www.amazon.com.mx/Super-útil-Heavy-duty-capacidad-montacargas-cuerda/dp/B001BXJVNC/ref=pd_sim_17  
