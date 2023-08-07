@@ -44,3 +44,7 @@ https://www.amazon.com.mx/XSTRAP-libras-resistencia-rotura-cuerda/dp/B07VFF9Z5B/
 https://www.amazon.com.mx/national-hardware-600-3204BC-doble-níquel/dp/B000CRFAK6/ref=pd_sbs_3  
 https://www.amazon.com.mx/Cuerda-alambre-inoxidable-rodillo-rodamiento/dp/B07KZPQ7Q1/ref=pd_sbs_2  
 https://www.amazon.com.mx/Super-útil-Heavy-duty-capacidad-montacargas-cuerda/dp/B001BXJVNC/ref=pd_sim_17  
+
+## Programa
+Evitar problemas de overflow con millis y micros  
+https://www.norwegiancreations.com/2018/10/arduino-tutorial-avoiding-the-overflow-issue-when-using-millis-and-micros/  
