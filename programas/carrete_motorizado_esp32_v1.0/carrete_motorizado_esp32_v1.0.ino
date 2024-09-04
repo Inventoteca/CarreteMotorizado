@@ -8,8 +8,8 @@
 // Definir pines
 #define REL1 26 //relevador 1 (controla motor)
 #define REL2 27 //relevador 2 (controla motor)
-#define SW1 16 //switch 1 (detectar límite de movimiento)
-#define SW2 17 //switch 2 (detectar límite de movimiento)
+#define SW1 16 //switch 1 (detectar límite de movimiento ARRIBA)
+#define SW2 17 //switch 2 (detectar límite de movimiento ABAJO opcional)
 
 // Librería bluetooh
 #include "BluetoothSerial.h"
@@ -39,8 +39,8 @@ void setup() {
   // Configurar pines
   pinMode(REL1, OUTPUT);
   pinMode(REL2, OUTPUT);
-  pinMode(SW1, INPUT);
-  pinMode(SW2, INPUT);
+  pinMode(SW1, INPUT_PULLUP);
+  pinMode(SW2, INPUT_PULLUP);
   parar(); //relevadores no activados
 
   // Iniciar comunicación serial y BT
@@ -107,7 +107,7 @@ void loop() {
   }
   else if (estado == SUBIR) {
     subir();
-    if (com1 == 'P' or com2 == 'P' or com1 == 'B' or com2 == 'B') {
+    if (com1 == 'P' or com2 == 'P' or com1 == 'B' or com2 == 'B' or digitalRead(SW1) == 0) {
       estado = PARAR;
       time_now = millis();
       espera = true;
